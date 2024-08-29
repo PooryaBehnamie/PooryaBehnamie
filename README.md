@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PooryaBehnamie
 - 👀 I’m interested in data analytics, healthcare data, and using data-driven insights to improve patient outcomes.
-- 🌱 I’m currently learning learning advanced machine learning techniques and how to apply them to healthcare datasets.
+- 🌱 I’m currently learning advanced machine learning techniques and how to apply them to healthcare datasets.
 - 💞️ I’m looking to collaborate on projects that involve healthcare data analysis, predictive modeling, and data visualization.
 - 📫 How to reach me You can reach me via email at [Pooryabehnamie@gmail.com](pooryabehnamie@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/poorya-behnamie).
 - 💞️ Check out my Portfolio website [here](https://www.pooryabehnamie.com/)
